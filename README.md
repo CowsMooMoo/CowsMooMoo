@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>Hi, I'm Jason! <br/>Security Professional, Programmer, Penetration Tester
 
 <h2>👨‍💻 Software Development Projects:</h2>
