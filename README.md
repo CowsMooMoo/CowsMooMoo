@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SOC Configuration (Microsoft Azure, Microsfot Sentinel)</b>
+- <b>SOC Configuration (Microsoft Azure, Microsoft Sentinel)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Active Directory Home Lab (Oracle Virtual Box)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
