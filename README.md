@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Directory Traversal Exploitation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SOC Configuration (Azure, Virtual Machines, Sentinel, Active Directories)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
@@ -20,6 +18,11 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 Pentesting Projects:</h2>
+
+- <b>Directory Traversal Exploitation</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
